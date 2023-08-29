@@ -23,7 +23,7 @@ od kojih su sve osim biblioteke cf_step dostupne u okviru instalacije Anaconde.
 Biblioteka cf_step moze se instalirati na sledeci nacin:
   * pip install cf_step
 
-Korišćeni skup podataka: [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/). Testiranje je pokušano i na većim skupovima podataka, ali zbog ograničenja same mašine na kojoj je izvršavan kod nije bilo moguće raditi sa većim skupovima podataka u trentku izrade ovog projekta.
+Korišćeni skup podataka: [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/). Testiranje je pokušano i na većim skupovima podataka, ali zbog ograničenja same mašine na kojoj je izvršavan kod nije bilo moguće raditi sa većim skupovima podataka u trentku izrade ovog projekta. Za pregledanje je dovoljno pogledati svesku MainFinal.ipynb koja sadrži sav kod uz dodatne komentare za prezentaciju, odnosno druga verijanta može biti da se pregledanje vrši pregledanjem sveske Main.ipynb i SGD.py koji je importovan u Main svesku i korišćen u prvoj verziji odradjenoj prošle školske godine.
 
 ## Autor
   Natalija Drašković natalija.draskovic@outlook.com, @NatalijaDraskovic
